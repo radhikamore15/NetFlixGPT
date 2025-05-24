@@ -17,6 +17,6 @@
         - Movie Suggestion
             - MovieLists * N
 
--NetflixGPT
+- NetflixGPT
     - Search Bar
     - Movie Suggestions
