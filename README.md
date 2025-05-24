@@ -20,3 +20,6 @@
 - NetflixGPT
     - Search Bar
     - Movie Suggestions
+
+    
+- Movie Details
